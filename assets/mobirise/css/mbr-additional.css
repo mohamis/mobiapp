@@ -1430,12 +1430,12 @@ body {
   border: none;
   cursor: pointer;
   width: 100%;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
 }
 .cid-rhd1aNc7wq input_type_submit__hover {
   backgroundColor: white;
   color: #53af57;
   border: 1px solid #53af57;
-  -webkit-border-radius: 50px;
-  -moz-border-radius: 50px;
-  border-radius: 50px;
 }
