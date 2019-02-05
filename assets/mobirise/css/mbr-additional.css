@@ -1387,3 +1387,55 @@ body {
 .cid-rhd1aNc7wq {
   background: linear-gradient(45deg, #55b4d4, #073b4c);
 }
+.cid-rhd1aNc7wq form {
+  width: 100%;
+  padding: 30px;
+  boxShadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+}
+.cid-rhd1aNc7wq containere {
+  width: 400px;
+  margin: 0 auto;
+  marginTop: 10%;
+}
+.cid-rhd1aNc7wq input_type_text {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  boxSizing: border-box;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+}
+.cid-rhd1aNc7wq input_type_password {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  boxSizing: border-box;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+}
+.cid-rhd1aNc7wq input_type_submit {
+  backgroundColor: #53af57;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+.cid-rhd1aNc7wq input_type_submit__hover {
+  backgroundColor: white;
+  color: #53af57;
+  border: 1px solid #53af57;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+}
